@@ -128,3 +128,72 @@ div .card {
 .text {
     text-align: center;
 }
+
+.quart-three {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #E5E7EB;
+}
+
+.thor-quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+
+}
+
+.thor {
+    font-weight: 900;
+}
+
+.quart-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+
+.ad {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 20px 40px;
+    border-radius: 4px;
+}
+
+.ad-header {
+    color: #F9FAF8;
+    font-weight: bold;   
+}
+
+.ad-content {
+    color: #E5E7EB;
+}
+
+.ad-button {
+    border: solid #F9FAF8;
+    border-radius: 4px;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    margin-left: 80px;
+    font-weight: bold;
+    padding: 5px 10px;
+    flex-shrink: 0;
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7Eb;
+    padding: 25px 100px;
+}
